@@ -23,7 +23,7 @@ Project includes: schematics, PCB, BOM, datasheets, 3D view, Gerber and drill fi
 ## Modules:
 - STM32 MCU
 - 5 weather conditions sensors
-- LoraWAN module for wireless communication
+- LoRaWAN module for wireless communication
 - Battery voltage measurement unit 
 - Power supply unit (includes boost converters TPS61023DRLR)
 
