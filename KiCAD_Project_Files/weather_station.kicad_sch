@@ -9,8 +9,8 @@
     (date "2023-01-02")
     (rev "0.1")
     (company "Politechnika Poznańska")
-    (comment 1 "Jakub Grzesiak, 144516")
-    (comment 3 "Author:")
+    (comment 1 "Jakub Grzesiak")
+    (comment 2 "Author:")
   )
 
   (lib_symbols
