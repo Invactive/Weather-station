@@ -28,12 +28,12 @@ PCB dimensions: 90mm x 32mm.
 - Boost Converter - TPS61023DRLR
 
 ## Schematics:
-<img src="Electrical_Schematics/weather_station_schematics.svg" width=100% height=100%>
+[<img src="Electrical_Schematics/weather_station_schematics.svg" width=100% height=100%>](Electrical_Schematics/weather_station_schematics.pdf)
 
 ## PCB:
-<img src="src/PCB.svg" width=100% height=100%>
-<img src="src/PCB_front.svg" width=100% height=100%>
-<img src="src/PCB_back.svg" width=100% height=100%>
+[<img src="src/PCB.svg" width=100% height=100%>](src/PCB.pdf)
+[<img src="src/PCB_front.svg" width=100% height=100%>](src/PCB_front.pdf)
+[<img src="src/PCB_back.svg" width=100% height=100%>](src/PCB_back.pdf)
 
 ## 3D Views:
 <img src="src/View_front.png" width=100% height=100%>
