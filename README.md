@@ -6,7 +6,7 @@ The device can be battery powered (max. input voltage 5.5V).
 
 Data from the sensors are transmitted via I2C, SPI and Analog.
 
-Project includes: schematics, PCB, BOM, datasheets, Gerber and drill files.
+Project includes: schematics, PCB, BOM, datasheets, 3D models, Gerber and drill files.
 
 PCB dimensions: 90mm x 32mm.
 
@@ -27,10 +27,18 @@ PCB dimensions: 90mm x 32mm.
 - Ambient Light Sensor - BH1750FVI-TR
 - Boost Converter - TPS61023DRLR
 
-## Schematics and PCB view:
-[Schematics](Electrical_Schematics/weather_station_schematics.pdf)
+## Schematics:
+<img src="Electrical_Schematics/weather_station_schematics.svg" width=100% height=100%>
 
-[PCB](src/PCB.png)
+## PCB:
+<img src="src/PCB.svg" width=100% height=100%>
+<img src="src/PCB_front.svg" width=100% height=100%>
+<img src="src/PCB_back.svg" width=100% height=100%>
+
+## 3D Views:
+<img src="src/View_front.png" width=100% height=100%>
+<img src="src/View_side.png" width=100% height=100%>
+<img src="src/View_back.png" width=100% height=100%>
 
 ---
 Project designed in KiCAD 6.0.
